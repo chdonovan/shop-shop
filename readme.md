@@ -38,7 +38,6 @@ SO THAT my website's state management is taken out of the React ecosystem
 * [Heroku](#Heroku)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
 # Installation & Database SetUp
